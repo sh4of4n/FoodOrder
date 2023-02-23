@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../XML/member.xsl"?>
+<member>
+  <person>
+    <name>Lim Shao Fan</name>
+    <date>2000-01-05</date>
+    <contact>0124136106</contact>
+    <email>limshaofan@outlook.com</email>
+    <address>No3, LorongBukitJuru23</address>
+  </person>
+  <person>
+    <name>Qi Wei</name>
+    <date>2001-04-20</date>
+    <contact>0164651885</contact>
+    <email>qiwei@gmail.com</email>
+    <address>6, LorongAsasMurni6</address>
+  </person>
+  <person>
+    <name>Yu Ting</name>
+    <date>2001-02-20</date>
+    <contact>0123456789</contact>
+    <email>yuting@gmail.com</email>
+    <address>Block H, Tingkat 9, Unit 13A, Lintang Lembah Permai 7</address>
+  </person>
+  <person>
+    <name>Goh Celine</name>
+    <date>2022-07-19</date>
+    <contact>0124167106</contact>
+    <email>gohceline@gmail.com</email>
+    <address>No44A, Jalan Todak 4, Bandar Seberang Jaya, 13700 Perai</address>
+  </person>
+</member>
